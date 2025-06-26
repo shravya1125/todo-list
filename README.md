@@ -1,16 +1,16 @@
-# 📝 To-Do List App
+#  To-Do List App
 
 A simple To-Do List web app to manage your daily tasks efficiently.
 
-## 🚀 Features
-- 🖊️ Add, Edit, Delete Tasks
-- 🎨 Responsive Design
-- 💾 Stores Tasks in Local Storage
+## Features
+- Add, Edit, Delete Tasks
+- Responsive Design
+- Stores Tasks in Local Storage
 
 ## 📸 Preview
 ![Todo App](assets/todo-preview.png)
 
-## 🔧 Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
@@ -22,7 +22,7 @@ A simple To-Do List web app to manage your daily tasks efficiently.
 
 2. Open index.html in a browser.
 
-📌 Live Demo 
+Live Demo 
 👉 [View it here](https://shravya1125.github.io/todo-list/)
 
 

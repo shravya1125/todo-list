@@ -7,8 +7,6 @@ A simple To-Do List web app to manage your daily tasks efficiently.
 - Responsive Design
 - Stores Tasks in Local Storage
 
-## 📸 Preview
-![Todo App](assets/todo-preview.png)
 
 ## Technologies Used
 - HTML
